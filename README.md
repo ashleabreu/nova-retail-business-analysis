@@ -8,9 +8,9 @@ Business performance analysis of Nova Retail (2023-2024).
 El objetivo de este proyecto fue analizar el desempeño de Nova Retail durante 2023 y 2024 para identificar los factores que influyeron en la disminución de las ganancias y presentar los resultados mediante un dashboard desarrollado en Power BI.
 
 ## HERRAMIENTAS.
-MySQL
-Power BI
-DAX
+- MySQL
+- Power BI
+- DAX
 
 ## DATASET.
 El proyecto utiliza un dataset de ventas de Nova Retail compuesto por una tabla de hechos y varias tablas de dimensiones (productos, clientes, regiones y devoluciones), lo que permitió construir un modelo estrella para el análisis.
