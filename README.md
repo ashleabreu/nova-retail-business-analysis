@@ -1,6 +1,9 @@
 # Nova Retail Business Analysis
 Business performance analysis of Nova Retail (2023-2024).
 
+## DASHBOARD
+![Dashboard](imagenes/dashboard.png)
+
 ## OBJETIVO.
 El objetivo de este proyecto fue analizar el desempeño de Nova Retail durante 2023 y 2024 para identificar los factores que influyeron en la disminución de las ganancias y presentar los resultados mediante un dashboard desarrollado en Power BI.
 
